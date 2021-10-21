@@ -1,1 +1,6 @@
+fridge = {}
+ingredients = {}
 
+
+def validateRecipeWithQuantity():
+    
